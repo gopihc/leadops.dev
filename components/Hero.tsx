@@ -42,7 +42,7 @@ export default function Hero() {
 
                         <p className="text-2xl text-muted-foreground mb-10 max-w-3xl mx-auto lg:mx-0 leading-relaxed">
                             Tech Manager with 15+ years delivering secure, scalable, and <span className="text-accent font-medium">AI-driven platforms</span>.
-                            Specializing in <span className="text-secondary font-medium">LeadOps</span>, AI, and Cloud Infrastructure across Healthcare, Finance, and Retail.
+                            Specializing in <span className="text-secondary font-medium">DevSecOps</span>, AIOps/MLOps, and Cloud Infrastructure across Healthcare, Finance, and Retail.
                         </p>
 
                         <div className="flex flex-col sm:flex-row items-center gap-6 justify-center lg:justify-start">
@@ -88,7 +88,7 @@ export default function Hero() {
                                         </div>
                                         <div>
                                             <div className="text-sm font-medium text-gray-400">Security</div>
-                                            <div className="text-lg font-semibold">CISM & LeadOps</div>
+                                            <div className="text-lg font-semibold">CISM & DevSecOps</div>
                                         </div>
                                     </div>
 
@@ -98,7 +98,7 @@ export default function Hero() {
                                         </div>
                                         <div>
                                             <div className="text-sm font-medium text-gray-400">AI Operations</div>
-                                            <div className="text-lg font-semibold">AI & LLMs</div>
+                                            <div className="text-lg font-semibold">MLOps & LLMs</div>
                                         </div>
                                     </div>
 

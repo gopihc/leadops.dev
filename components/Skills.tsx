@@ -22,7 +22,7 @@ const skillCategories = [
     {
         title: "DevOps & Infrastructure",
         icon: <Server className="w-10 h-10 text-orange-400" />,
-        skills: ["GitOps", "ArgoCD", "Flux", "Istio", "Linkerd", "Pulumi", "Crossplane", "Backstage", "Platform Eng"],
+        skills: ["GitOps", "ArgoCD", "Flux", "Istio", "Linkerd", "Pulumi", "Crossplane", "Backstage", "Platform Eng", "VMware", "Hyper-V", "Checkpoint", "Sophos"],
     },
     {
         title: "SRE & Operations",
@@ -37,7 +37,7 @@ const skillCategories = [
     {
         title: "Software Engineering",
         icon: <Code2 className="w-10 h-10 text-blue-400" />,
-        skills: ["Distributed Systems", "Event-Driven", "Microservices", "API Governance", "Design Patterns", "Clean Arch", "Performance Opt"],
+        skills: ["C#", "Python", "PowerShell", "Shell", "Groovy", "JavaScript", "Distributed Systems", "Event-Driven", "Microservices", "API Governance", "Design Patterns"],
     },
     {
         title: "Open Source & Ecosystem",
