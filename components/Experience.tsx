@@ -43,13 +43,13 @@ const experiences = [
 
 const education = [
     {
-        degree: "MTech (Pursuing)",
+        degree: "MTech AI & DSE  (Pursuing)",
         institution: "IIT Patna",
         period: "2026 - 2028",
     },
     {
         degree: "Master of Science (MSc), Information Technology",
-        institution: "Sikkim Manipal University",
+        institution: "Manipal University",
         period: "2010 - 2012",
     },
 ];
