@@ -50,7 +50,7 @@ export default function Hero() {
                                 View Experience
                                 <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
                             </a>
-                            <a href="mailto:gopihc@gmail.com" className="px-10 py-5 rounded-full bg-muted hover:bg-muted/80 text-white text-lg font-medium transition-all border border-white/10">
+                            <a href="mailto:gopi@leadops.dev" className="px-10 py-5 rounded-full bg-muted hover:bg-muted/80 text-white text-lg font-medium transition-all border border-white/10">
                                 Contact Me
                             </a>
                         </div>
