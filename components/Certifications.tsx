@@ -34,8 +34,8 @@ export default function Certifications() {
                     transition={{ duration: 0.5 }}
                     className="text-center mb-20"
                 >
-                    <h2 className="text-4xl md:text-6xl font-bold mb-6">Active <span className="text-accent">Certifications</span></h2>
-                    <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+                    <h2 className="text-3xl md:text-5xl font-bold mb-6">Active <span className="text-accent">Certifications</span></h2>
+                    <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
                         Validated expertise across Multi-Cloud, Security, and DevOps domains.
                     </p>
                 </motion.div>

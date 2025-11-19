@@ -65,8 +65,8 @@ export default function Experience() {
                     transition={{ duration: 0.5 }}
                     className="text-center mb-20"
                 >
-                    <h2 className="text-4xl md:text-6xl font-bold mb-6">Professional <span className="text-secondary">Journey</span></h2>
-                    <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+                    <h2 className="text-3xl md:text-5xl font-bold mb-6">Professional <span className="text-secondary">Journey</span></h2>
+                    <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
                         15+ years of delivering secure, scalable, and AI-driven platforms across various industries.
                     </p>
                 </motion.div>

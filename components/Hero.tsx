@@ -35,12 +35,12 @@ export default function Hero() {
                             <span className="text-base font-medium text-muted-foreground">Enterprise Architect | CISM | Multi-Cloud</span>
                         </div>
 
-                        <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-8 bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-200 to-gray-400 leading-tight">
+                        <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-8 bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-200 to-gray-400 leading-tight">
                             Gopi Chinnappa <br />
-                            <span className="text-primary text-5xl md:text-7xl">DevSecOps & MLOPS/AIOPS</span>
+                            <span className="text-primary text-4xl md:text-6xl">DevSecOps & MLOPS/AIOPS</span>
                         </h1>
 
-                        <p className="text-2xl text-muted-foreground mb-10 max-w-3xl mx-auto lg:mx-0 leading-relaxed">
+                        <p className="text-xl text-muted-foreground mb-10 max-w-3xl mx-auto lg:mx-0 leading-relaxed">
                             Tech Manager with 15+ years delivering secure, scalable, and <span className="text-accent font-medium">AI-driven platforms</span>.
                             Specializing in <span className="text-secondary font-medium">DevSecOps</span>, AIOps/MLOps, and Cloud Infrastructure across Healthcare, Finance, and Retail.
                         </p>

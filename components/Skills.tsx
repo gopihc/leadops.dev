@@ -57,8 +57,8 @@ export default function Skills() {
                     transition={{ duration: 0.5 }}
                     className="text-center mb-20"
                 >
-                    <h2 className="text-4xl md:text-6xl font-bold mb-6">Technical <span className="text-primary">Arsenal</span></h2>
-                    <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
+                    <h2 className="text-3xl md:text-5xl font-bold mb-6">Technical <span className="text-primary">Arsenal</span></h2>
+                    <p className="text-lg text-muted-foreground max-w-3xl mx-auto">
                         A comprehensive toolkit for building scalable, intelligent, and robust systems.
                     </p>
                 </motion.div>
