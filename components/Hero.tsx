@@ -37,7 +37,7 @@ export default function Hero() {
 
                         <h1 className="text-6xl md:text-8xl font-bold tracking-tight mb-8 bg-clip-text text-transparent bg-gradient-to-r from-white via-gray-200 to-gray-400 leading-tight">
                             Gopi Chinnappa <br />
-                            <span className="text-primary text-5xl md:text-7xl">LeadOps & AI</span>
+                            <span className="text-primary text-5xl md:text-7xl">DevSecOps & MLOPS/AIOPS</span>
                         </h1>
 
                         <p className="text-2xl text-muted-foreground mb-10 max-w-3xl mx-auto lg:mx-0 leading-relaxed">
@@ -108,7 +108,7 @@ export default function Hero() {
                                         </div>
                                         <div>
                                             <div className="text-sm font-medium text-gray-400">Infrastructure</div>
-                                            <div className="text-lg font-semibold">K8s & Terraform</div>
+                                            <div className="text-lg font-semibold">K8s, Docker , AWS, Azure, VMWare, Google Cloud, Terraform</div>
                                         </div>
                                     </div>
 
@@ -128,7 +128,7 @@ export default function Hero() {
                                         </div>
                                         <div>
                                             <div className="text-sm font-medium text-gray-400">Open Source</div>
-                                            <div className="text-lg font-semibold">Linux, Git & CNCF</div>
+                                            <div className="text-lg font-semibold"></div>
                                         </div>
                                     </div>
                                 </div>

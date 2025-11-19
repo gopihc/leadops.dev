@@ -1,13 +1,15 @@
 import Hero from "@/components/Hero";
 import Skills from "@/components/Skills";
 import Experience from "@/components/Experience";
+import Certifications from "@/components/Certifications";
 import { Github, Linkedin, Mail, Twitter } from "lucide-react";
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-background text-foreground overflow-x-hidden selection:bg-primary/30 selection:text-white">
+    <main className="min-h-screen bg-background text-foreground overflow-x-hidden">
       <Hero />
       <Skills />
+      <Certifications />
       <Experience />
 
       {/* Contact / Footer Section */}
